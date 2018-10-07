@@ -8,7 +8,9 @@
 // Customize the background color
 body {
    background-image: url("https://shebenst.github.io/images/Milky Way.jpg");
-   background-size: auto;
+   background-size:     cover;                      /* <------ */
+   background-repeat:   no-repeat;
+   background-position: center center;              /* optional, center the image *
 }
 
 // Customize the menubar color

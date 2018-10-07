@@ -143,7 +143,7 @@
       "highlights": [
         "Learned how to maintain and the functions of numerous types of servers",
         "Became proficient in configuring local/cloud servers using command prompts and Windows PowerShell",
-        "Act as project manager for deployments of Office 365, email filtering, anti-virus, and monitoring software"
+        "Acted as project manager for deployments of Office 365, email filtering, anti-virus, and monitoring software"
       ]
     }, 
     {
@@ -187,6 +187,21 @@
       "summary": ""
     }
   ],
+  "organizations":[
+    { "Montana State University",
+      "position": "Teaching Assistant",
+      "website": "",
+      "startDate": "2017-08",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Instruct freshman and sophomore physics labs",
+        "Grade homework assignments",
+        "Hold office hours to assist with coursework and understanding physical concepts",
+        "Run recitation sessions to reinforce or correct physical understanding"
+      ]
+    }
+   ],
   "references": [
     {
       "name": "Available upon request",

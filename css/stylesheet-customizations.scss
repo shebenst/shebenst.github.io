@@ -27,6 +27,16 @@ body {
   color: green;
 }
 
+// "Read More" buttons
+a.ui.bottom.attached.button {
+  color: white;
+  background: $uh-green-light;
+
+  &:hover {
+    background: $uh-green;
+  }
+}
+
 // Tag pill boxes
 div.ui.basic.label {
   color: white;

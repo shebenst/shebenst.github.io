@@ -1,4 +1,4 @@
-<!-- Home page design with small circular image bisecting card.  
+<!-- Home page design with small circular image bisecting card.  -->
 
 {% assign essay_pages = site.pages | where: "type", "essay"  | where_exp: "page", "page.draft != true" %}
 {% assign project_pages = site.pages | where: "type", "project" | where_exp: "page", "page.draft != true" %}
@@ -38,12 +38,12 @@
         {% include home-network-links.html %}
       </div>
       <div class="center aligned content">
-        <a href="{{ site.baseurl}}/projects/"> 
+        <!--<a href="{{ site.baseurl}}/projects/"> 
           <button class="ui basic button">Projects ({{ num_projects }})</button>
         </a>
         <a href="{{ site.baseurl}}/essays/">
           <button class="ui basic button">Essays ({{ num_essays }})</button>
-        </a> 
+        </a> -->
         <a href="{{ site.baseurl}}/bio/">
           <button class="ui basic button">{{ site.bio-page-label }}</button>
         </a>
@@ -53,4 +53,4 @@
 
 </div>
 
--->
+

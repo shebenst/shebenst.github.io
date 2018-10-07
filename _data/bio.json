@@ -9,15 +9,15 @@
     "summary": "I am a graduate student in the Montana State University Physics Department. My research interests pertain to observational astronomy and data analysis.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "59715",
+      "city": "Bozeman",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Montana"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
+        "username": "shebenst",
         "url": "http://github.com/changeme"
       },
       {
@@ -39,19 +39,19 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Galactic archaeology",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "data analysis",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "",
       "keywords": [
       ]
     }

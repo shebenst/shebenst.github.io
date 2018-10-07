@@ -118,7 +118,22 @@
       ]
     }
   ],
-  "work": [{
+  "work": [
+    {
+      "company": "Montana State University",
+      "position": "Teaching Assistant",
+      "website": "",
+      "startDate": "2017-08",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Instruct freshman and sophomore physics labs",
+        "Grade homework assignments",
+        "Hold office hours to assist with coursework and understanding physical concepts",
+        "Run recitation sessions to reinforce or correct physical understanding"
+      ]
+    }, 
+    {
       "company": "Colorado Mesa University",
       "position": "Adjunct Professor",
       "website": "",

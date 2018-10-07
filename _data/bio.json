@@ -77,7 +77,47 @@
       "courses": [
         ]
     }
-  ],   
+  ],
+  "volunteer": [
+    {
+      "organization": "Montana State University",
+      "website": "http://www.physics.montana.edu/",
+      "position": "Galactic halo DDO51 metallicities",
+      "startDate": "2017-10",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Use large DDO51 photometric survey to analyze the structure and chemistry of the Milky Way Galactic halo",
+        "Calculate metallicities for all giant stars in the survey and determine rough distances",
+        "Create metallicity distribution functions (MDFs)",
+        "Determine what MDFs can tell us about accretion history of the Milky Way"
+      ]
+    },
+    {
+      "organization": "Colorado Mesa University",
+      "website": "https://www.coloradomesa.edu/physics/index.html",
+      "position": "Quantum parameter estimation",
+      "startDate": "2014-08",
+      "endDate": "2015-05",
+      "summary": "",
+      "highlights": [
+        "Searched for optimal schemes to estimate unknown parameters associated with quantum evolutions"
+      ]
+    },
+    {
+      "organization": "University of South Florida",
+      "website": "http://physics.usf.edu/",
+      "position": "Lipid vesicle structure and dynamics (REU)",
+      "startDate": "2014-05",
+      "endDate": "2014-08",
+      "summary": "",
+      "highlights": [
+        "Examined the interactions of lipid vesicles with drugs, antimicrobial peptides, and iron nanoparticles",
+        "Became proficient with SEM, TEM, and spectrofluorometer",
+        "Prepared samples of lipids in solution for experimentation"
+      ]
+    }
+  ],
   "work": [{
       "company": "Colorado Mesa University",
       "position": "Adjunct Professor",

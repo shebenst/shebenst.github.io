@@ -23,3 +23,12 @@ body {
   color: green;
 }
 
+.ui.basic.button, .ui.basic.buttons .button {
+  background: $uh-green-light !important;
+  color: white !important;
+
+  &:hover {
+    background: $uh-green !important;
+    color: white !important;
+  }
+}

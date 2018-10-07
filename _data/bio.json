@@ -61,7 +61,17 @@
       "institution": "Montana State University, Bozeman, MT",
       "area": "Physics",
       "studyType": "PhD Student",
-      "startDate": "August 2017",
+      "startDate": "2017-08",
+      "endDate": "Present",
+      "gpa": "",
+      "courses": [
+        ]
+    },
+        {
+      "institution": "Montana State University, Bozeman, MT",
+      "area": "Physics",
+      "studyType": "PhD Student",
+      "startDate": "2017-08",
       "endDate": "Present",
       "gpa": "",
       "courses": [

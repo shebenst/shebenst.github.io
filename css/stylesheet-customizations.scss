@@ -9,13 +9,7 @@ $uh-green-official: #024731; // https://www.hawaii.edu/offices/eaur/graphicsguid
 $uh-green: lighten($uh-green-official, 5%);
 $uh-green-light: lighten($uh-green-official, 10%);
 
-// Customize the background color
-body {
-   background-image: url("https://shebenst.github.io/images/Milky Way.jpg");
-   background-size: cover;                     
-   background-repeat: no-repeat;
-   background-position: center center;             
-}
+
 
 // Customize the menubar color
 .ui.menu {

@@ -188,14 +188,14 @@
     }
   ],
   "organizations":[
-    { "title": "Sigma Pi Sigma",
+    { "organization": "Sigma Pi Sigma",
       "position": "",
       "website": "",
       "startDate": "",
       "endDate": "",
       "summary": ""
     },
-    { "title": "Kappa Mu Epsilon",
+    { "organization": "Kappa Mu Epsilon",
       "position": "",
       "website": "",
       "startDate": "",
@@ -209,14 +209,14 @@
       "endDate": "",
       "summary": ""
     },
-    { "title": "Colorado Mesa University Society of Physics Students",
+    { "organization": "Colorado Mesa University Society of Physics Students",
       "position": "Vice President",
       "website": "2013-08",
       "startDate": "2014-05",
       "endDate": "",
       "summary": ""
     },
-    { "title": "Society of Physics Students National Council",
+    { "organization": "Society of Physics Students National Council",
       "position": "Associate Zone Councilor",
       "website": "2014-08",
       "startDate": "2015-05",

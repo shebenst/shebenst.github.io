@@ -173,7 +173,28 @@
       "gpa": "",
       "courses": [
         ]
-    }],
+    }
+   {
+      "institution": "Society of Physics Students National Council",
+      "area": "Associate Zone Councilor",
+      "studyType": "Helped to select outstanding SPS chapters in Zone 14. Served on a committee to develop a database of Sigma Pi Sigma members who are available speak publicly.",
+      "startDate": "2014",
+      "endDate": "2015",
+      "gpa": "",
+      "courses": [
+        ]
+    }
+ {
+      "institution": "Colorado Mesa University Society of Physics Students",
+      "area": "Vice President",
+      "studyType": "Planned a physics demonstration for every club meeting. Helped prepare for community events.",
+      "startDate": "2013",
+      "endDate": "2014",
+      "gpa": "",
+      "courses": [
+        ]
+    }
+   ],
   "awards": [
     {
       "title": "President’s List",

@@ -7,13 +7,6 @@
   <div class="twelve wide column no-bottom">
     <p class="ui no-bottom"><b>{{ entry.event }}</b>, {{ entry.institution }}</p>
     <p class="ui no-bottom">{{ entry.description }} {{ entry.area }}</p>
-    {% if entry.courses %}
-      <ul style="margin: 0px;">
-        {% for course in entry.courses %}
-          <li>{{ course }}</li>
-        {% endfor %}
-      </ul>
-    {% endif %}
   </div>
   <div class="four wide right aligned column no-bottom">
     <p class="ui no-bottom"><b>

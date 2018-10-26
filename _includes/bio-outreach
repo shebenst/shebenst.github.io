@@ -3,7 +3,7 @@
   <hr style="margin: 0px;">
 </div>
 
-{% for entry in site.data.bio.outreach %}
+{% for entry in site.data.bio.outreachevents %}
   <div class="twelve wide column no-bottom">
     <p class="ui no-bottom"><b>{{ entry.event }}</b>, {{ entry.institution }}</p>
     <p class="ui no-bottom">{{ entry.description }} {{ entry.area }}</p>

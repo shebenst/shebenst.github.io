@@ -199,13 +199,13 @@
     {
       "institution": "9th Annual Egg Drop",
       "title": "Colorado Mesa University",
-      "studyType": "A competition for middle and high schoolers based on egg containers dropped from a 51 foot tall cherry picker on the university plaza. Schools from the area (as well as passing college students) were invited to watch and participate. As president of the physics club, I was a primary organizer and announcer for the event.",
+      "description": "A competition for middle and high schoolers based on egg containers dropped from a 51 foot tall cherry picker on the university plaza. Schools from the area (as well as passing college students) were invited to watch and participate. As president of the physics club, I was a primary organizer and announcer for the event.",
       "startDate": "2015",
     },
  {
       "institution": "8th Annual Pumpkin Drop",
       "title": "Colorado Mesa University",
-      "studyType": "Very much like the egg drop, but not a competition. Pumpkins were dropped from the same height as the egg drop. The event was a fun way to get children and college students excited about physics.  I was a primary organizer.",
+      "description": "Very much like the egg drop, but not a competition. Pumpkins were dropped from the same height as the egg drop. The event was a fun way to get children and college students excited about physics.  I was a primary organizer.",
       "startDate": "2014",
     }
    ],

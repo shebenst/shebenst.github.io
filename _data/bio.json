@@ -131,7 +131,20 @@
         "Grade homework assignments",
         "Hold office hours to assist with coursework and understanding physical concepts",
         "Run recitation sessions to reinforce or correct physical understanding"
+        "Teach accelerated Summer courses"
       ]
+    },
+    {
+      "company": "Networks Unlimited",
+      "position": "Managed Services Administrator",
+      "website": "",
+      "startDate": "2015-12",
+      "endDate": "2017-07",
+      "summary": "",
+      "highlights": [
+	"Learned how to maintain and the functions of numerous types of servers"
+  "Became proficient in configuring local/cloud servers using command prompts and Windows PowerShell"
+  "Acted as project manager for deployments of Office 365, email filtering, anti-virus, and monitoring software"      ]
     },
     {
       "company": "Colorado Mesa University",

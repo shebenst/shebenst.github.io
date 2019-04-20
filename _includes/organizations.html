@@ -2,6 +2,11 @@
 
 {% if site.data.bio.organizations %}
 
+<div class="sixteen wide column no-bottom">
+  <h3 class="ui left aligned header no-bottom">Organizations</h3>
+  <hr style="margin: 0px;">
+</div>
+
 {% for entry in site.data.bio.organizations %}
   <div class="twelve wide column no-bottom">
     <p class="ui no-bottom">
@@ -28,5 +33,14 @@
       {% endif %}
     </b></p>
   </div>
+  <div style="padding-top: 0px;" class="sixteen wide column no-bottom">
+    <p class="ui no-bottom">{{ entry.summary }}</p>
+    {% if entry.highlights %}
+      <ul style="margin: 0px;">
+        {% for highlight in entry.highlights %}
+          <li>{{ highlight }}</li>
+        {% endfor %}
+      </ul>
+    {% endif %}
 {% endfor %}
 {% endif %}

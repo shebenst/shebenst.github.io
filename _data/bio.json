@@ -63,7 +63,7 @@
       "studyType": "PhD Student",
       "startDate": "2017-08",
       "endDate": "Present",
-      "gpa": "Cum Laude",
+      "gpa": "",
       "courses": [
         ]
     },
@@ -74,7 +74,7 @@
       "startDate": "2010-08",
       "endDate": "2015-05",
       "gpa": "",
-      "courses": [
+      "courses": ["Cum Laude"
         ]
     }
   ],

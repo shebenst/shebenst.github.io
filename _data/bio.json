@@ -102,8 +102,11 @@
       "endDate": "2015-05",
       "summary": "",
       "highlights": [
-        "Searched for optimal schemes to estimate unknown parameters associated with quantum evolutions",
-	 "Used Mathematica to calculate quantum Fisher information for a quantum evolution (the amplitude damping channel)"
+        "Searched for optimum “schemes” to estimate unknown parameters associated with quantum evolutions",
+	"Used Mathematica to calculate quantum Fisher information for evolutions",
+	"Compared multiple evolution “channels” with correlated and uncorrelated spin-1/2 particles to maximize quantum Fisher information",
+	"Presented research in a poster session to a diverse audience"
+
       ]
     },
     {

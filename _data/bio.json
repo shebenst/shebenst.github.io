@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Samuel Hebenstreit",
-    "label": "Graduate Student",
+    "label": "Data Scientist and Python Programmer",
     "picture": "https://shebenst.github.io/images/CV Image lr.jpg",
-    "email": "samuelhebenstreit@montana.edu",
+    "email": "shebenst@outlook.com",
     "phone": "",
     "website": "https://shebenst.github.io",
-    "summary": "I am a graduate student in the Montana State University Physics Department. My research focuses on determining the structure, dynamics, and chemistry of the Milky Way Galactic halo.",
+    "summary": "I am a recent physics master's graduate from Montana State University. My graduate research focused on determining the structure, dynamics, and chemistry of the Milky Way Galactic halo.",
     "location": {
       "address": "",
       "postalCode": "59718",

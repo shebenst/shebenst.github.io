@@ -9,10 +9,10 @@
     "summary": "I am a recent physics master's graduate from Montana State University. My graduate research focused on determining the structure, dynamics, and chemistry of the Milky Way Galactic halo.",
     "location": {
       "address": "",
-      "postalCode": "59718",
-      "city": "Bozeman",
+      "postalCode": "80227",
+      "city": "Denver",
       "countryCode": "USA",
-      "region": "Montana"
+      "region": "Colorado"
     },
     "profiles": [
       {
@@ -32,6 +32,16 @@
     },
     {
       "name": "data analysis",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Python",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "machine learning",
       "keywords": [
       ]
     }
@@ -123,7 +133,18 @@
       ]
     }
   ],
-  "work": [
+  "work": [ 
+    {
+      "company": "High Performance Tutoring",
+      "position": "Tutor",
+      "website": "",
+      "startDate": "2019-09",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Meet with high school and college students for one-on-one physics and math tutoring"
+      ]
+    },
     {
       "company": "Montana State University",
       "position": "Teaching Assistant",

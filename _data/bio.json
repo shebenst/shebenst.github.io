@@ -60,9 +60,9 @@
     {
       "institution": "Montana State University, Bozeman, MT",
       "area": "Physics",
-      "studyType": "PhD Student",
+      "studyType": "Master of Science",
       "startDate": "",
-      "endDate": "",
+      "endDate": "2019-08",
       "gpa": "",
       "courses": [
         ]
@@ -70,7 +70,7 @@
    {
       "institution": "Colorado Mesa University, Grand Junction, CO",
       "area": "Physics",
-      "studyType": "Bachelors of Science - Cum Laude",
+      "studyType": "Bachelor of Science - Cum Laude",
       "startDate": "",
       "endDate": "2015-05",
       "gpa": "",
@@ -147,9 +147,10 @@
       "endDate": "2017-07",
       "summary": "",
       "highlights": [
-	"Learned how to maintain and the functions of numerous types of servers",
+	"Obtained an advanced understanding of email servers (local and cloud) and email filtering methodologies",
+	"Focused on operation and maintenance of numerous types of servers",
   	"Became proficient in configuring local/cloud servers using command prompts and Windows PowerShell",
-  	"Acted as project manager for deployments of Office 365, email filtering, anti-virus, and monitoring software"
+  	"Acted as project manager for deployments of Office 365, email filtering, anti-virus, and remote monitoring software"
      ]
     },
     {
